@@ -1,0 +1,2 @@
+Task 1: Write code for implementing bubble sort
+Task 2: Write code for implementing Linear Search
